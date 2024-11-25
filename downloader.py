@@ -1,4 +1,4 @@
-from pinscrape.pinscrape.v2 import Pinterest
+from .pinscrape.pinscrape.v2 import Pinterest
 import asyncio
 
 async def search_pinterest(keyword, limit=10):
