@@ -1,5 +1,3 @@
-from pinscrape.pinscrape.v2 import Pinterest
-
 import requests
 import json
 import time
